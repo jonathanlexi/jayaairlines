@@ -42,8 +42,8 @@
 		<foaf:namapesawat>ATR 72</foaf:namapesawat>
 		<foaf:pilot>Captain Sinatra</foaf:pilot>
 		<foaf:copilot>Tyson</foaf:copilot>
-		<geo:rute>=Jakarta-Riau</geo:rute>
-		<a:jumlahkursi>=75 Seats</a:jumlahkursi>
+		<geo:rute>Jakarta-Riau</geo:rute>
+		<a:jumlahkursi>75 Seats</a:jumlahkursi>
 		<a:image>https://modernairliners.com/wp-content/uploads/2018/07/ATR_72-600_Air_KBZ_KBZ_F-WWEV_-_MSN_1085.jpg"</a:image>
 	</rdf:Description>
 
