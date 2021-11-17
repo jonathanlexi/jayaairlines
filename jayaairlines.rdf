@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:a="http://www.jayaairlines.fake/a#"
+	>
+
+	<rdf:Description
+		rdf:about = "http://www.jayaairlines.fake/Boeing 737">
+		<foaf:namapesawat>Boeing 737</foaf:namapesawat>
+		<foaf:pilot>Captain Refra Widodo</foaf:pilot>
+		<foaf:copilot>Dani Mamahit</foaf:copilot>
+		<geo:rute>Medan-Jakarta</geo:rute>
+		<a:jumlahkursi>124 Seats</a:jumlahkursi>		
+		<a:image>https://upload.wikimedia.org/wikipedia/commons/9/9e/Delta_Air_Lines_Boeing_737-832%3B_N3747D%40LAX%3B10.10.2011_622in_%286482376485%29.jpg</a:image>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.jayaairlines.fake/Airbus A320">
+		<foaf:namapesawat>Airbus A320</foaf:namapesawat>
+		<foaf:pilot>Captain Jonathan Sitohang</foaf:pilot>
+		<foaf:copilot>Marvel Harahap</foaf:copilot>
+		<geo:rute>Jakarta-Bali</geo:rute>
+		<a:jumlahkursi>150 Seats</a:jumlahkursi>
+		<a:image>https://citraindonesia.com/wp-content/uploads/2019/03/Pesawat-Airbus-A320..jpg</a:image>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.jayaairlines.fake/Boeing 787">
+		<foaf:namapesawat>Boeing 787</foaf:namapesawat>
+		<foaf:pilot>Captain Sastra Harapan Gulo</foaf:pilot>
+		<foaf:copilot>Daniel Juliansen</foaf:copilot>
+		<geo:rute>Pekanbaru-Batam</geo:rute>
+		<a:jumlahkursi>147 Seats</a:jumlahkursi>
+		<a:image>https://ichef.bbci.co.uk/news/640/cpsprodpb/8F90/production/_109525763_boeing-787-8-dreamliner.jpg</a:image>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.jayaairlines.fake/ATR 72">
+		<foaf:namapesawat>ATR 72</foaf:namapesawat>
+		<foaf:pilot>Captain Sinatra</foaf:pilot>
+		<foaf:copilot>Tyson</foaf:copilot>
+		<geo:rute>=Jakarta-Riau</geo:rute>
+		<a:jumlahkursi>=75 Seats</a:jumlahkursi>
+		<a:image>https://modernairliners.com/wp-content/uploads/2018/07/ATR_72-600_Air_KBZ_KBZ_F-WWEV_-_MSN_1085.jpg"</a:image>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.jayaairlines.fake/Boeing 747">
+		<foaf:namapesawat>=Boeing 747</foaf:namapesawat>
+		<foaf:pilot>=Captain Richel</foaf:pilot>
+		<foaf:copilot>Edrei Simamora</foaf:copilot>
+		<geo:rute>Bali-Batam</geo:rute>
+		<a:jumlahkursi>660</a:jumlahkursi>
+		<a:image>https://upload.wikimedia.org/wikipedia/commons/c/c4/British_Airways_G-BNLU-2008-09-13-YVR.jpg</a:image>
+	</rdf:Description>
+
+</rdf:RDF>
