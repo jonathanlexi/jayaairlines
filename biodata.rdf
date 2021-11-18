@@ -10,26 +10,26 @@
  		rdf:about="http://www.jayaairlines.fake/devi">
  		<foaf:nama>Devi Megarita Br Sibarani</foaf:nama>
  		<a:quote>Siapapun dirimu, jadilah yang terbaik</a:quote>
- 		<a:image>https://cdn-icons-png.flaticon.com/512/257/257651.png</a:image>
+ 		<a:image>cewek.png</a:image>
  	</rdf:Description> 
  	<rdf:Description
 		rdf:about="http://www.jayaairlines.fake/difanie">
 		<foaf:nama>Difanie Mayananda</foaf:nama>
 		<a:quote>Tetaplah hidup sehat walau dikejar deadline</a:quote>
-		<a:image>https://cdn-icons-png.flaticon.com/512/257/257651.png</a:image>
+		<a:image>cewek.png</a:image>
 	</rdf:Description>
  
 	<rdf:Description
  		rdf:about="http://www.jayaairlines.fake/jonathan">
  		<foaf:nama>Jonathan Lexi Febrian Sitohang</foaf:nama>
  		<a:quote>Hidup itu sederhana, kita yang membuatnya sulit</a:quote>
- 		<a:image>https://cdn-icons.flaticon.com/png/512/2995/premium/2995657.png?token=exp=1637251380~hmac=dee74e4873238f571efd81f26a0050e3</a:image>
+ 		<a:image>cowok.png</a:image>
  	</rdf:Description>
  
  	<rdf:Description
  		rdf:about="http://www.jayaairlines.fake/sastra">
  		<foaf:nama>Sastra Harapan Gulo</foaf:nama>
  		<a:quote>Jalan yang sulit sering kali mengarah ke tujuan yang indah</a:quote>
- 		<a:image>https://cdn-icons.flaticon.com/png/512/2995/premium/2995657.png?token=exp=1637251380~hmac=dee74e4873238f571efd81f26a0050e3</a:image>
+ 		<a:image>cowok.png</a:image>
  	</rdf:Description>
  </rdf:RDF>
