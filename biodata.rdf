@@ -23,13 +23,13 @@
  		rdf:about="http://www.jayaairlines.fake/jonathan">
  		<foaf:nama>Jonathan Lexi Febrian Sitohang</foaf:nama>
  		<a:quote>Hidup itu sederhana, kita yang membuatnya sulit</a:quote>
- 		<a:image>https://cdn-icons.flaticon.com/png/512/2995/premium/2995657.png?token=exp=1637251380~hmac=dee74e4873238f571efd81f26a0050e3</a:image>
+ 		<a:image>https://cdn-icons-png.flaticon.com/512/2784/2784403.png</a:image>
  	</rdf:Description>
  
  	<rdf:Description
  		rdf:about="http://www.jayaairlines.fake/sastra">
  		<foaf:nama>Sastra Harapan Gulo</foaf:nama>
  		<a:quote>Jalan yang sulit sering kali mengarah ke tujuan yang indah</a:quote>
- 		<a:image>https://cdn-icons.flaticon.com/png/512/2995/premium/2995657.png?token=exp=1637251380~hmac=dee74e4873238f571efd81f26a0050e3</a:image>
+ 		<a:image>https://cdn-icons-png.flaticon.com/512/2784/2784403.png</a:image>
  	</rdf:Description>
  </rdf:RDF>
