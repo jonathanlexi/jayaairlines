@@ -22,7 +22,8 @@
 		<foaf:namapesawat>Airbus A320</foaf:namapesawat>
 		<foaf:pilot>Captain Jonathan Sitohang</foaf:pilot>
 		<foaf:copilot>Marvel Harahap</foaf:copilot>
-		<geo:rute>Jakarta-Bali</geo:rute>
+		<geo:rute1>Jakarta-Medan</geo:rute1>
+		<geo:rute2>Medan-Jakarta</geo:rute2>
 		<a:jumlahkursi>150 Seats</a:jumlahkursi>
 		<a:image>https://citraindonesia.com/wp-content/uploads/2019/03/Pesawat-Airbus-A320..jpg</a:image>
 	</rdf:Description>
@@ -32,7 +33,8 @@
 		<foaf:namapesawat>Boeing 787</foaf:namapesawat>
 		<foaf:pilot>Captain Sastra Harapan Gulo</foaf:pilot>
 		<foaf:copilot>Daniel Juliansen</foaf:copilot>
-		<geo:rute>Pekanbaru-Batam</geo:rute>
+		<geo:rute1>Pekanbaru-Medan</geo:rute1>
+		<geo:rute2>Medan-Pekanbaru</geo:rute2>
 		<a:jumlahkursi>147 Seats</a:jumlahkursi>
 		<a:image>https://ichef.bbci.co.uk/news/640/cpsprodpb/8F90/production/_109525763_boeing-787-8-dreamliner.jpg</a:image>
 	</rdf:Description>
@@ -42,17 +44,19 @@
 		<foaf:namapesawat>ATR 72</foaf:namapesawat>
 		<foaf:pilot>Captain Sinatra</foaf:pilot>
 		<foaf:copilot>Tyson</foaf:copilot>
-		<geo:rute>Jakarta-Riau</geo:rute>
+		<geo:rute1>Surabaya-Medan</geo:rute1>
+		<geo:rute2>Medan-Surabaya</geo:rute2>
 		<a:jumlahkursi>75 Seats</a:jumlahkursi>
 		<a:image>https://modernairliners.com/wp-content/uploads/2018/07/ATR_72-600_Air_KBZ_KBZ_F-WWEV_-_MSN_1085.jpg"</a:image>
 	</rdf:Description>
 
 	<rdf:Description
 		rdf:about="http://www.jayaairlines.fake/Boeing 747">
-		<foaf:namapesawat>Boeing 747</foaf:namapesawat>
-		<foaf:pilot>Captain Richel</foaf:pilot>
+		<foaf:namapesawat>=Boeing 747</foaf:namapesawat>
+		<foaf:pilot>=Captain Richel</foaf:pilot>
 		<foaf:copilot>Edrei Simamora</foaf:copilot>
-		<geo:rute>Bali-Batam</geo:rute>
+		<geo:rute1>Bali-Medan</geo:rute1>
+		<geo:rute2>Medan-Bali</geo:rute2>
 		<a:jumlahkursi>660</a:jumlahkursi>
 		<a:image>https://upload.wikimedia.org/wikipedia/commons/c/c4/British_Airways_G-BNLU-2008-09-13-YVR.jpg</a:image>
 	</rdf:Description>
