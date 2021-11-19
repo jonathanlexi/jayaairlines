@@ -12,7 +12,8 @@
 		<foaf:namapesawat>Boeing 737</foaf:namapesawat>
 		<foaf:pilot>Captain Refra Widodo</foaf:pilot>
 		<foaf:copilot>Dani Mamahit</foaf:copilot>
-		<geo:rute>Medan-Jakarta</geo:rute>
+		<geo:rute1>Kalimantan-Medan</geo:rute1>
+		<geo:rute2>Medan-Kalimantan</geo:rute1>
 		<a:jumlahkursi>124 Seats</a:jumlahkursi>		
 		<a:image>https://upload.wikimedia.org/wikipedia/commons/9/9e/Delta_Air_Lines_Boeing_737-832%3B_N3747D%40LAX%3B10.10.2011_622in_%286482376485%29.jpg</a:image>
 	</rdf:Description>
