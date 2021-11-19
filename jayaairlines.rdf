@@ -52,8 +52,8 @@
 
 	<rdf:Description
 		rdf:about="http://www.jayaairlines.fake/Boeing 747">
-		<foaf:namapesawat>=Boeing 747</foaf:namapesawat>
-		<foaf:pilot>=Captain Richel</foaf:pilot>
+		<foaf:namapesawat>Boeing 747</foaf:namapesawat>
+		<foaf:pilot>Captain Richel</foaf:pilot>
 		<foaf:copilot>Edrei Simamora</foaf:copilot>
 		<geo:rute1>Bali-Medan</geo:rute1>
 		<geo:rute2>Medan-Bali</geo:rute2>
